@@ -1,7 +1,7 @@
 # HR Data Analytics Project
 
-	During my enrollment in the Google Data Analystics Professional Certificate course, I came across several data analysis projects aimed at broadening my understanding of the profession's scope. Among these projects was one focused on a case study by Google's HR department, elucidating the concept of HR analytics and its influence on employees' experiences in the workplace, including its symbiotic relationship with corporate culture. I found this particular project captivating, as I am deeply motivated by the prospect of contributing to the enhancement of individuals' professional lives in a way that is aggregating to the company.
-	With that being, I stumbled upon a dataset sourced from a fictitious company and delved into this HR mock project. Here, I intend to address the following topics:
+During my enrollment in the Google Data Analystics Professional Certificate course, I came across several data analysis projects aimed at broadening my understanding of the profession's scope. Among these projects was one focused on a case study by Google's HR department, elucidating the concept of HR analytics and its influence on employees' experiences in the workplace, including its symbiotic relationship with corporate culture. I found this particular project captivating, as I am deeply motivated by the prospect of contributing to the enhancement of individuals' professional lives in a way that is aggregating to the company.
+With that being, I stumbled upon a dataset sourced from a fictitious company and delved into this HR mock project. Here, I intend to address the following topics:
 
 1) Create a quick HR dashboard
 2) How many people are in each job?
